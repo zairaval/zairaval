@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="ZAI_n.jpg" />
+  <img src="ZAI_n.jpg" width="50" height="50" />
 </p>
 ---
 
