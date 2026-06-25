@@ -4,6 +4,8 @@
 <p align="center">
   <img src="ZAI_n.jpg" />
 </p>
+---
+
 ## Mis Áreas de interés son
 - Neurociencia Computacional
 - Enfermedades Neurodegenerativas
@@ -11,12 +13,12 @@
 - Ciencia de Datos
 
 ## Tengo experiencia académica en:
-**- Practicas Profesionales**
-    **- Instituto de Neurobiologia (INB)**
-        - Participación de Hormonas y Neurotransmisores en el Aprendizaje y la Memoria 
-        - Implementación de modelos conductuales en ratones para el estudio de enfermedades neurodegenerativas 
-    **- Laboratorio Internacional de Investigación sobre el Genoma Humano (LIIGH)**
-        - MexOmics: registros mexicanos de pacientes
+**- Practicas Profesionales** 
+    **- Instituto de Neurobiologia (INB)** 
+        - Participación de Hormonas y Neurotransmisores en el Aprendizaje y la Memoria  
+        - Implementación de modelos conductuales en ratones para el estudio de enfermedades neurodegenerativas  
+    **- Laboratorio Internacional de Investigación sobre el Genoma Humano (LIIGH)** 
+        - MexOmics: registros mexicanos de pacientes 
 
 ## Las Herramientas o tecnologías que estoy aprendiendo.
 - Python
