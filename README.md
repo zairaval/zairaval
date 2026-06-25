@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hola! Soy Zaira, egresada de la Lic. En Neurociencias en la Escuela Nacional de Estudios Superiores Unidad Juriquilla (ENES Juriquilla) y soy Miembro activo de investigación del grupo Student Interest Group in Neurology - Facultad de Medicina UNAM (SIGN) México.
+---
 
-<!--
-**zairaval/zairaval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="ZAI_n.jpg" />
+</p>
+## Mis Áreas de interés son
+- Neurociencia Computacional
+- Enfermedades Neurodegenerativas
+- Conducta
+- Ciencia de Datos
 
-Here are some ideas to get you started:
+## Tengo experiencia académica en:
+**- Practicas Profesionales**
+    **- Instituto de Neurobiologia (INB)**
+        - Participación de Hormonas y Neurotransmisores en el Aprendizaje y la Memoria 
+        - Implementación de modelos conductuales en ratones para el estudio de enfermedades neurodegenerativas 
+    **- Laboratorio Internacional de Investigación sobre el Genoma Humano (LIIGH)**
+        - MexOmics: registros mexicanos de pacientes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Las Herramientas o tecnologías que estoy aprendiendo.
+- Python
+- R
+- GitHub
+- FSL
+---
+
+## Objetivos académicos o profesionales.
+- Egresada de la Lic. en Neurociencias en proceso de titulación, formación activa-independiente de distintas disciplinas en el diseño, implementación y evaluación de sistemas neurotecnológicos que integren principios de control y aprendizaje motor e interacción humano-máquina, orientados a mejorar la función, la rehabilitación y la asistencia en salud mediante soluciones interdisciplinarias.
+
