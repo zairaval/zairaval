@@ -6,11 +6,12 @@
 </p>
 ---
 
-## Mis Áreas de interés son
-- Neurociencia Computacional
-- Enfermedades Neurodegenerativas
-- Conducta
-- Ciencia de Datos
+## Mis Áreas de interés son:
+
+- Neurociencia Computacional 
+- Enfermedades Neurodegenerativas 
+- Conducta 
+- Ciencia de Datos 
 
 ## Tengo experiencia académica en:
 **- Practicas Profesionales** 
